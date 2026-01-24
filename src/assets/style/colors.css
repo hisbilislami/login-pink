@@ -1,0 +1,65 @@
+:root {
+  /* Base */
+  --color-white: #ffffff;
+  --color-black: #000000;
+
+  /* Pink system */
+  --color-pink-soft: #ffebe7;
+  --color-pink-powder: #ffc0be;
+  --color-pink-bubblegum: #ff82a9;
+  --color-wisteria-blue: #7f95d1;
+
+  /* Accent */
+  --color-accent-info: #7f95d1;
+
+  /* Text */
+  --color-text-primary: #1a1a1a;
+  --color-text-muted: #6b6b6b;
+}
+
+@theme {
+  /* Pink system */
+  --color-pink-soft-50: #fff7f5;
+  --color-pink-soft-100: #fff2ef;
+  --color-pink-soft-200: #ffebe7; /* ← base */
+  --color-pink-soft-300: #f8d8d3;
+  --color-pink-soft-400: #eebbb4;
+  --color-pink-soft-500: #e39d94;
+  --color-pink-soft-600: #cc7f75;
+  --color-pink-soft-700: #a8645b;
+  --color-pink-soft-800: #7f4b44;
+  --color-pink-soft-900: #52302b;
+
+  --color-pink-powder-50: #fff5f5;
+  --color-pink-powder-100: #ffe8e7;
+  --color-pink-powder-200: #ffd6d4;
+  --color-pink-powder-300: #ffc0be; /* ← base */
+  --color-pink-powder-400: #f2a5a3;
+  --color-pink-powder-500: #e58a88;
+  --color-pink-powder-600: #cc6f6d;
+  --color-pink-powder-700: #a85a58;
+  --color-pink-powder-800: #7f4342;
+  --color-pink-powder-900: #522b2a;
+
+  --color-pink-bubblegum-50: #fff0f5;
+  --color-pink-bubblegum-100: #ffdbe6;
+  --color-pink-bubblegum-200: #ffb3c8;
+  --color-pink-bubblegum-300: #ff82a9; /* ← base */
+  --color-pink-bubblegum-400: #f0638f;
+  --color-pink-bubblegum-500: #e04776;
+  --color-pink-bubblegum-600: #c8365f;
+  --color-pink-bubblegum-700: #a12b4d;
+  --color-pink-bubblegum-800: #7a223b;
+  --color-pink-bubblegum-900: #4f1425;
+
+  --color-wisteria-blue-50: #f4f6fc;
+  --color-wisteria-blue-100: #e6ebf8;
+  --color-wisteria-blue-200: #cdd7f1;
+  --color-wisteria-blue-300: #a9b8e6;
+  --color-wisteria-blue-400: #93a4db;
+  --color-wisteria-blue-500: #7f95d1; /* ← base */
+  --color-wisteria-blue-600: #687cb6;
+  --color-wisteria-blue-700: #526296;
+  --color-wisteria-blue-800: #3f4b73;
+  --color-wisteria-blue-900: #2a314d;
+}
